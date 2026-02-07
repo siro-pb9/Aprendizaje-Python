@@ -1,0 +1,3 @@
+Aqui podras encontrar material practico de como usar lo aprendido en cada clase de "Clases y Explicaciones", Los codigos aqui NO tienen anotaciones, estan listos para ajecutarlos
+y probarlos en VSC o donde gustes, recuerda que para eso debes descargar el codigo, abrirlo con VSC, ir al apartado de "TERMINAL" en la bandeja de abajo de VSC,
+y colocar el comando "python <nombre del archivo>" para ejecutarlo bien, por ejemplo: "python clase1_print.py
